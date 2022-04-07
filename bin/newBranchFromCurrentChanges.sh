@@ -2,7 +2,7 @@
 
 read -p 'New Branch Name:' newBranch
 
-git swtich -b $newBranch
+git switch -b $newBranch
 
 git add .
 
