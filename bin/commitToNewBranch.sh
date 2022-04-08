@@ -11,3 +11,8 @@ git commit -m "Add local changes to new git branch"
 git switch -
 
 git clean -f
+
+
+git switch $newBranch
+
+git push
