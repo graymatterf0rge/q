@@ -13,3 +13,5 @@ git switch main
 git clean -f
 
 git switch $newBranch
+
+git push
